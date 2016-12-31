@@ -1,0 +1,11 @@
+plugins {
+  id "org.xtext.xtend" version "1.0.15"
+}
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  compile 'org.eclipse.xtend:org.eclipse.xtend.lib:2.9.0'
+}
